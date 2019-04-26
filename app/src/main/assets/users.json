@@ -1,0 +1,17 @@
+{
+    "users":
+    [
+        {
+            "id":1,
+            "name":"Desi Suci Ramadhani",
+            "email":"desisuci.dsr@gmail.com"
+        },
+        
+        {
+            "id":2,
+            "name":"Rhaeza",
+            "email":"rhaezarhaditya@gmail.com"
+        }
+
+    ]
+}
